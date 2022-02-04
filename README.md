@@ -1,6 +1,6 @@
 # Modified Substrate Frontier Node Template
 
-This template is built on the base of [the original repository]((https://github.com/substrate-developer-hub/substrate-node-template)) to test some Solidity contracts on a Substrate network with Ethereum compatible layers.
+This template is built on the base of [the original repository](https://github.com/substrate-developer-hub/substrate-node-template) to test some Solidity contracts on a Substrate network with Ethereum compatible layers.
 
 To test contracts using [the HardHat tools](https://hardhat.org/) the following have been introduced into the original code:
 * five account with some ETH with public keys derived from [the default HardHat seed phrase](https://hardhat.org/hardhat-network/reference/#accounts) in the file: ["./node/src/chain_spec.rs"](./node/src/chain_spec.rs)
